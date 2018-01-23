@@ -1,1 +1,3 @@
 # spectrum-healthport
+
+The greater Atlanta area, and particularly Clarkston, a suburb to the East, is home to a uniquely high number of refugees from all over the world. We are working on mobile software that would allow refugees to bring their records with them to each new medical environment in order to reduce information lapses that lead to redundant care or a lack of care for critical conditions. 
